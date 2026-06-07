@@ -22,6 +22,6 @@ Hi, I'm Kiran Kumar 👋<br><br>I am a passionate student and aspiring developer
 ![](https://github-contributor-stats.vercel.app/api?username=kirankumarperni20-bit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=kirankumarperni20-bit&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=kirankumarperni20-bit&color=blue)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
